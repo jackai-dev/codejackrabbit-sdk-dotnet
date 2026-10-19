@@ -1,0 +1,12 @@
+{
+  "$schema": "https://omniwrap.dev/schemas/dotnet-package/v2.json",
+  "archive_type": "nupkg",
+  "assembly_name": "CodeJackRabbitSdk",
+  "assembly_version": "0.2.0.0",
+  "package_id": "CodeJackRabbitSdk",
+  "public_client_type": "CodeJackRabbit.Sdk.ApiClient",
+  "root_namespace": "CodeJackRabbit.Sdk",
+  "source_version": "0.2.0",
+  "target_framework": "net8.0",
+  "version": "0.2.0"
+}
